@@ -1,1 +1,38 @@
 
+.nav  {
+  /* display: inline; */
+  color: rgb(3, 3, 3);
+  padding-left: 100px;
+  position: relative;
+  top: -60px;
+
+}
+#logo{
+  padding-bottom: 26px;
+
+}
+#hero{
+  padding-bottom: 26px;
+
+
+}
+
+#sub1{
+  
+}
+#sub2 {
+  padding-left: 26px;
+}
+#sub3 {
+  padding-left: 26px;
+}
+h3{
+  float: left;
+}
+#lorem{
+  width: 200px;
+  height: 200px;
+
+}#feature{
+padding-top: 26px;
+}
