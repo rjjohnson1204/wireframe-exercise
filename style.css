@@ -1,38 +1,111 @@
-
-.nav  {
-  /* display: inline; */
-  color: rgb(3, 3, 3);
-  padding-left: 100px;
-  position: relative;
-  top: -60px;
+html{
+  
 
 }
+header{
+  background-color: rgb(58, 55, 55);
+  height: 90px;
+  width: 100%;
+  /* border: 1px solid red; */
+
+}
+header{
+  /* border: 1px solid red; */
+}
+head{
+  /* border: 1px solid red; */
+}
+.nav  {
+  /* display: inline; */
+  color: rgb(204, 199, 199);
+  padding-left: 70px;
+  position: relative;
+  top: -30px;
+  /* border: 1px solid red; */
+}
 #logo{
-  padding-bottom: 26px;
+  padding-top: 10px;
+  padding-left: 150px;
+  /* border: 1px solid red;   */
+}
+body{
+  /* border: 1px solid rgb(31, 214, 138); */
+  height: 500px;
 
 }
 #hero{
+  padding-top: 26px;
   padding-bottom: 26px;
-
+  /* border: 1px solid red; */
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
 #sub1{
-  
+  /* border: 1px solid red; */
+  padding-left: 160px;
 }
 #sub2 {
   padding-left: 26px;
+  /* border: 1px solid red; */
+
 }
 #sub3 {
   padding-left: 26px;
+  /* border: 1px solid red; */
+
 }
 h3{
-  float: left;
+  float: right;
+  /* border: 1px solid red; */
+  position: relative;
+  left: -450px;
+  top: 30px;
+  font-weight: bolder;
+
 }
 #lorem{
-  width: 200px;
-  height: 200px;
+  width: 450px;
+  height: 325px;
+  /* border: 1px solid red; */
+  float: right;
+  position: relative;
+  left: 0px;
+  top: 55px;
+  overflow: scroll;
 
-}#feature{
+
+}
+#feature{
 padding-top: 26px;
+padding-left: 160px;
+/* border: 1px solid red; */
+}
+button{
+  background-color: rgb(3, 3, 3);
+    color: white;
+    text-align: center;
+    border-radius: 3px;
+    display: inline-block;
+    font-size: 16px;
+    width: 175px;
+    height: 40px;
+    position: relative;
+    left: 660px;
+    bottom: 45px;
+}
+button:hover{
+  background-color: rgb(250, 4, 4);
+
+}
+footer {
+  display: flex;
+  width: 100%;
+  height: 100px;
+  margin-top: 30px;
+  background-color: rgb(77, 77, 77);
+  /* border: 1px solid red; */
+
 }
